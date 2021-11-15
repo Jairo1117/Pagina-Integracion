@@ -1,0 +1,250 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+header{
+    background: linear-gradient(to right, yellow, rgb(255, 102, 0), yellow, rgb(126, 63, 5), yellow);
+    border-radius: 20px;
+}
+.Titulo1{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: linear-gradient(to right, rgb(255, 8, 0), rgb(187, 255, 0), rgb(255, 38, 0), rgb(201, 7, 23), rgb(255, 8, 0));
+    
+}
+
+.TCuadrado{
+    text-align: center;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, red);
+    font-size: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.TextoEscribe{
+    font-size: 30px;
+    text-align: center;
+    width: 1380px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(126, 63, 5), red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, rgb(126, 76, 5), red);
+    margin-left: 70px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.TextoEscribe2{
+    font-size: 20px;
+    width: 1380px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(126, 63, 5), red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, rgb(126, 76, 5), red);
+    margin-left: 70px;
+}
+
+.margen{
+    margin-left: 566px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Botones{
+    width: 1380px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(126, 63, 5), red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, rgb(126, 76, 5), red);
+    margin-left: 70px;
+}
+
+.botones2{
+    border-style:groove;
+    margin-left: 475px;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(126, 63, 5), red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, rgb(126, 76, 5), red);
+    border-color: white;
+    border-width: 3px;
+    color: white 
+}
+
+.botones3{
+    border-style:groove;
+    font-size: 20px;
+    margin-left: 35px;
+    width: 200px;
+    height: 50px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(126, 63, 5), red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, rgb(126, 76, 5), red);
+    border-color: white;
+    border-width: 3px;
+    color: white;
+}
+.TTriangulo{
+    text-align: center;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, red);
+    font-size: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.EstiloTriangulo{
+    font-size: 25px;
+    width: 1380px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(126, 63, 5), red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, rgb(126, 76, 5), red);
+    margin-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.margent1{
+    margin-left: 400px;
+    color: white;
+    margin-top: 20px;
+}
+
+.margent2{
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.margent3{
+    margin-left: 13px;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.margent33{
+    margin-left: 24px;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.BotonTriangulo{
+    width: 1380px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(126, 63, 5), red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, rgb(126, 76, 5), red);
+    margin-left: 70px;
+}
+.BotonTri{
+    border-style:groove;
+    margin-left: 600px;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(126, 63, 5), red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, rgb(126, 76, 5), red);
+    border-color: white;
+    border-width: 3px;
+    color: white;
+}
+.margent4{
+    margin-left: 32px;
+    font-size: 25px;
+    margin-top: 20px;
+
+}
+.botones5{
+    border-style:groove;
+    margin-left: 370px;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(126, 63, 5), red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, rgb(126, 76, 5), red);
+    border-color: white;
+    border-width: 3px;
+    color: white;
+}
+.botones6{
+    border-style:groove;
+    margin-left: 20px;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(126, 63, 5), red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, rgb(126, 76, 5), red);
+    border-color: white;
+    border-width: 3px;
+    color: white;
+}
+.botones7{
+    border-style:groove;
+    margin-left: 20px;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(126, 63, 5), red);
+    background: linear-gradient(70deg, red,  rgb(255, 102, 0), yellow, rgb(126, 76, 5), red);
+    border-color: white;
+    border-width: 3px;
+    color: white;
+}
+.resultado{
+    font-size: 30px;
+    text-align: center;
+    background: linear-gradient(to right yellow,red, rgb(255, 102, 0), yellow);
+    background: linear-gradient(70deg, yellow, red, rgb(255, 102, 0), yellow);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-left-width: 70px;
+   
+}
+.resultado1{
+    font-size: 30px;
+    text-align: center;
+    background: linear-gradient(to right, yellow,red ,rgb(255, 102, 0), yellow);
+    background: linear-gradient(70deg, yellow,red,  rgb(255, 102, 0), yellow);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-left-width:70px;
+}
+.resultado2{
+    font-size: 30px;
+    text-align: center;
+    background: linear-gradient(to right, yellow,red ,rgb(255, 102, 0), yellow);
+    background: linear-gradient(70deg, yellow,red,  rgb(255, 102, 0), yellow);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-left-width:70px;
+}
+
+footer{
+    font-size: 20px;
+    background-color:  rgb(126, 7, 46);
+    text-align: center;
+    color: white;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Regresar{
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    background-color: rgb(48, 4, 26);
+    border-color: white;
+    border-style: solid;
+    color: white;
+    margin-left: 703px;
+    margin-top: 20px;
+}

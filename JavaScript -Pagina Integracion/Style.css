@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-color: rgb(247, 243, 218);
+}
+
+header{
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(223, 111, 7), rgb(80, 3, 41));
+    
+}
+
+.Titulo{
+    text-align: center;
+    font-size: 65px;
+    color: white;
+}
+
+main .Figuras{
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(223, 111, 7), rgb(80, 3, 41));
+    border-color: rgb(230, 37, 11);
+    border-radius: 20px;
+    margin-top: 110px;
+    margin-left: 115px;
+    border-width: 10px;
+    font-size: 40px;
+    color: white;
+    
+}
+main .Porcentajes{
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(223, 111, 7), rgb(80, 3, 41));
+    border-color: rgb(230, 37, 11);
+    border-radius: 20px;
+    margin-left: 40px;
+    border-width: 10px;
+    font-size: 40px;
+    color: white;
+}
+
+main .Moda{
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(to right, red, rgb(255, 102, 0), yellow, rgb(223, 111, 7), rgb(80, 3, 41));
+    border-color: rgb(230, 37, 11);
+    border-radius: 20px;
+    margin-left: 40px;
+    border-width: 10px;
+    font-size: 40px;
+    color: white;
+}
+
+
